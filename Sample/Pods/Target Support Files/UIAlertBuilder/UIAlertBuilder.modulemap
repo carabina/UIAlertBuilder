@@ -1,0 +1,6 @@
+framework module UIAlertBuilder {
+  umbrella header "UIAlertBuilder-umbrella.h"
+
+  export *
+  module * { export * }
+}

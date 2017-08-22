@@ -1,0 +1,16 @@
+PODS:
+  - UIAlertBuilder (1.0.0)
+
+DEPENDENCIES:
+  - UIAlertBuilder (from `../`)
+
+EXTERNAL SOURCES:
+  UIAlertBuilder:
+    :path: ../
+
+SPEC CHECKSUMS:
+  UIAlertBuilder: 81aa038119461e7df59fb3c98d813085c5936dd0
+
+PODFILE CHECKSUM: 209798fc05bcba9f7a9f390c767f7e45b42f0134
+
+COCOAPODS: 1.3.0
